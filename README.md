@@ -20,4 +20,6 @@ https://en.wikipedia.org/wiki/Haar-like_feature#:~:text=Haar-like%20features%20a
 
 ## Output
 
+![Screenshot 2021-07-21 at 7 03 28 PM](https://user-images.githubusercontent.com/77420780/126480987-4b6aa70c-e46a-4378-9fa1-f0612b614aed.png)
+
 
