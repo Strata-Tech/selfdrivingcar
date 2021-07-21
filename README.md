@@ -1,6 +1,6 @@
 # Car Detection App as used in Full Self Driving (FSD) cars.
 
-![wallstreetmemes-lede-1300x734](https://user-images.githubusercontent.com/77420780/126026718-a1815384-f8c7-4965-a304-e4cd277f6fca.jpg)
+
 
 This app uses Computer Vision technology as used in self driving cars i.e Tesla for vehicle detection as well as pedestrian detection. This is better than Lidar Technology. Lidar is a method of measuring distance by shooting lasers and detecting how much time they take to return. The idea is similar to Radar but instead of radio waves, we use lasers. The technology is extremely accurate at detecting objects even up to millimeters. However tends to be expensive
 
@@ -18,6 +18,6 @@ To further know more about Haar-like features you may wish to refer to :
 https://en.wikipedia.org/wiki/Haar-like_feature#:~:text=Haar-like%20features%20are%20digital%20image%20features%20used%20in,were%20used%20in%20the%20first%20real-time%20face%20detector.
 
 
-##Output
+## Output
 
 
