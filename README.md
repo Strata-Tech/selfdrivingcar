@@ -6,6 +6,9 @@ This app uses Computer Vision technology as used in self driving cars i.e Tesla 
 
 On the other hand,Computer Vision is a field of Artificial Intelligence that trains computers to understand the visual world. This is basically reverse engineering human vision.
 
+![maxresdefault](https://user-images.githubusercontent.com/77420780/126481784-e15ae5cb-2a45-40db-815a-c0c619e167e6.jpg)
+
+
 ## Technologies Used
 * OpenCV 
 
