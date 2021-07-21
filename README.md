@@ -17,8 +17,7 @@ On the other hand,Computer Vision is a field of Artificial Intelligence that tra
 In this project, I am using IBM's trained dataset of cars, where the A.I. has been trained to recognize cars. This is the xml file in the attachment. From the code, I have rescaled the video to frames which are grey and white allow the A.I. to better recognize the cars.
 
 The A.I. is better able to process the Haar-like features.
-To further know more about Haar-like features you may wish to refer to :
-https://en.wikipedia.org/wiki/Haar-like_feature#:~:text=Haar-like%20features%20are%20digital%20image%20features%20used%20in,were%20used%20in%20the%20first%20real-time%20face%20detector.
+To further know more about Haar-like features you may wish to refer to [here](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d)
 
 
 ## Output
